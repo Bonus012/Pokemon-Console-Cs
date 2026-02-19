@@ -1,0 +1,15 @@
+C:\Users\Antoine\Documents\GitHub\lyo-3g-gamegear-s1p1-05\Projet1BaseDuCsharpGrp5\Projet1BaseDuCsharpGrp5\bin\Debug\net8.0\Projet1BaseDuCsharpGrp5.exe
+C:\Users\Antoine\Documents\GitHub\lyo-3g-gamegear-s1p1-05\Projet1BaseDuCsharpGrp5\Projet1BaseDuCsharpGrp5\bin\Debug\net8.0\Projet1BaseDuCsharpGrp5.deps.json
+C:\Users\Antoine\Documents\GitHub\lyo-3g-gamegear-s1p1-05\Projet1BaseDuCsharpGrp5\Projet1BaseDuCsharpGrp5\bin\Debug\net8.0\Projet1BaseDuCsharpGrp5.runtimeconfig.json
+C:\Users\Antoine\Documents\GitHub\lyo-3g-gamegear-s1p1-05\Projet1BaseDuCsharpGrp5\Projet1BaseDuCsharpGrp5\bin\Debug\net8.0\Projet1BaseDuCsharpGrp5.dll
+C:\Users\Antoine\Documents\GitHub\lyo-3g-gamegear-s1p1-05\Projet1BaseDuCsharpGrp5\Projet1BaseDuCsharpGrp5\bin\Debug\net8.0\Projet1BaseDuCsharpGrp5.pdb
+C:\Users\Antoine\Documents\GitHub\lyo-3g-gamegear-s1p1-05\Projet1BaseDuCsharpGrp5\Projet1BaseDuCsharpGrp5\obj\Debug\net8.0\Projet1BaseDuCsharpGrp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoine\Documents\GitHub\lyo-3g-gamegear-s1p1-05\Projet1BaseDuCsharpGrp5\Projet1BaseDuCsharpGrp5\obj\Debug\net8.0\Projet1BaseDuCsharpGrp5.AssemblyInfoInputs.cache
+C:\Users\Antoine\Documents\GitHub\lyo-3g-gamegear-s1p1-05\Projet1BaseDuCsharpGrp5\Projet1BaseDuCsharpGrp5\obj\Debug\net8.0\Projet1BaseDuCsharpGrp5.AssemblyInfo.cs
+C:\Users\Antoine\Documents\GitHub\lyo-3g-gamegear-s1p1-05\Projet1BaseDuCsharpGrp5\Projet1BaseDuCsharpGrp5\obj\Debug\net8.0\Projet1BaseDuCsharpGrp5.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\Documents\GitHub\lyo-3g-gamegear-s1p1-05\Projet1BaseDuCsharpGrp5\Projet1BaseDuCsharpGrp5\obj\Debug\net8.0\Projet1BaseDuCsharpGrp5.sourcelink.json
+C:\Users\Antoine\Documents\GitHub\lyo-3g-gamegear-s1p1-05\Projet1BaseDuCsharpGrp5\Projet1BaseDuCsharpGrp5\obj\Debug\net8.0\Projet1BaseDuCsharpGrp5.dll
+C:\Users\Antoine\Documents\GitHub\lyo-3g-gamegear-s1p1-05\Projet1BaseDuCsharpGrp5\Projet1BaseDuCsharpGrp5\obj\Debug\net8.0\refint\Projet1BaseDuCsharpGrp5.dll
+C:\Users\Antoine\Documents\GitHub\lyo-3g-gamegear-s1p1-05\Projet1BaseDuCsharpGrp5\Projet1BaseDuCsharpGrp5\obj\Debug\net8.0\Projet1BaseDuCsharpGrp5.pdb
+C:\Users\Antoine\Documents\GitHub\lyo-3g-gamegear-s1p1-05\Projet1BaseDuCsharpGrp5\Projet1BaseDuCsharpGrp5\obj\Debug\net8.0\Projet1BaseDuCsharpGrp5.genruntimeconfig.cache
+C:\Users\Antoine\Documents\GitHub\lyo-3g-gamegear-s1p1-05\Projet1BaseDuCsharpGrp5\Projet1BaseDuCsharpGrp5\obj\Debug\net8.0\ref\Projet1BaseDuCsharpGrp5.dll

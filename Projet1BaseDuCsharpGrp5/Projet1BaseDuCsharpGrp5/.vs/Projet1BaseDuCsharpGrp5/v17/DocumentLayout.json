@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|c:\\users\\antoine\\documents\\github\\lyo-3g-gamegear-s1p1-05\\projet1baseducsharpgrp5\\projet1baseducsharpgrp5\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|solutionrelative:projet1baseducsharpgrp5\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|c:\\users\\antoine\\documents\\github\\lyo-3g-gamegear-s1p1-05\\projet1baseducsharpgrp5\\projet1baseducsharpgrp5\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|solutionrelative:projet1baseducsharpgrp5\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|c:\\users\\antoine\\documents\\github\\lyo-3g-gamegear-s1p1-05\\projet1baseducsharpgrp5\\projet1baseducsharpgrp5\\clientserialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|solutionrelative:projet1baseducsharpgrp5\\clientserialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|c:\\users\\antoine\\documents\\github\\lyo-3g-gamegear-s1p1-05\\projet1baseducsharpgrp5\\projet1baseducsharpgrp5\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|solutionrelative:projet1baseducsharpgrp5\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|c:\\users\\antoine\\documents\\github\\lyo-3g-gamegear-s1p1-05\\projet1baseducsharpgrp5\\projet1baseducsharpgrp5\\pnj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|solutionrelative:projet1baseducsharpgrp5\\pnj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|c:\\users\\antoine\\documents\\github\\lyo-3g-gamegear-s1p1-05\\projet1baseducsharpgrp5\\projet1baseducsharpgrp5\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|solutionrelative:projet1baseducsharpgrp5\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|c:\\users\\antoine\\documents\\github\\lyo-3g-gamegear-s1p1-05\\projet1baseducsharpgrp5\\projet1baseducsharpgrp5\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|solutionrelative:projet1baseducsharpgrp5\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|c:\\users\\antoine\\documents\\github\\lyo-3g-gamegear-s1p1-05\\projet1baseducsharpgrp5\\projet1baseducsharpgrp5\\menupanique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|solutionrelative:projet1baseducsharpgrp5\\menupanique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2CF4EE-3C32-41EA-B338-A33511D666A1}|TestProject1\\TestProject1.csproj|c:\\users\\antoine\\documents\\github\\lyo-3g-gamegear-s1p1-05\\projet1baseducsharpgrp5\\biomes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C2CF4EE-3C32-41EA-B338-A33511D666A1}|TestProject1\\TestProject1.csproj|solutionrelative:biomes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|c:\\users\\antoine\\documents\\github\\lyo-3g-gamegear-s1p1-05\\projet1baseducsharpgrp5\\projet1baseducsharpgrp5\\decors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|solutionrelative:projet1baseducsharpgrp5\\decors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|c:\\users\\antoine\\documents\\github\\lyo-3g-gamegear-s1p1-05\\projet1baseducsharpgrp5\\projet1baseducsharpgrp5\\gamesave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|solutionrelative:projet1baseducsharpgrp5\\gamesave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|c:\\users\\antoine\\documents\\github\\lyo-3g-gamegear-s1p1-05\\projet1baseducsharpgrp5\\projet1baseducsharpgrp5\\fightarena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|solutionrelative:projet1baseducsharpgrp5\\fightarena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|c:\\users\\antoine\\documents\\github\\lyo-3g-gamegear-s1p1-05\\projet1baseducsharpgrp5\\projet1baseducsharpgrp5\\dresseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|solutionrelative:projet1baseducsharpgrp5\\dresseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|c:\\users\\antoine\\documents\\github\\lyo-3g-gamegear-s1p1-05\\projet1baseducsharpgrp5\\projet1baseducsharpgrp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|solutionrelative:projet1baseducsharpgrp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|c:\\users\\antoine\\documents\\github\\lyo-3g-gamegear-s1p1-05\\projet1baseducsharpgrp5\\projet1baseducsharpgrp5\\competence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|solutionrelative:projet1baseducsharpgrp5\\competence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|c:\\users\\antoine\\documents\\github\\lyo-3g-gamegear-s1p1-05\\projet1baseducsharpgrp5\\projet1baseducsharpgrp5\\biome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|solutionrelative:projet1baseducsharpgrp5\\biome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|c:\\users\\antoine\\documents\\github\\lyo-3g-gamegear-s1p1-05\\projet1baseducsharpgrp5\\projet1baseducsharpgrp5\\pokemontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|solutionrelative:projet1baseducsharpgrp5\\pokemontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|c:\\users\\antoine\\documents\\github\\lyo-3g-gamegear-s1p1-05\\projet1baseducsharpgrp5\\projet1baseducsharpgrp5\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|solutionrelative:projet1baseducsharpgrp5\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|c:\\users\\antoine\\documents\\github\\lyo-3g-gamegear-s1p1-05\\projet1baseducsharpgrp5\\projet1baseducsharpgrp5\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B7AC4C-3E26-4F42-8AF1-30ADA48FB802}|Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5.csproj|solutionrelative:projet1baseducsharpgrp5\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\Map.cs",
+              "RelativeDocumentMoniker": "Projet1BaseDuCsharpGrp5\\Map.cs",
+              "ToolTip": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\Map.cs",
+              "RelativeToolTip": "Projet1BaseDuCsharpGrp5\\Map.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAnwFMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T23:09:15.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FightArena.cs",
+              "DocumentMoniker": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\FightArena.cs",
+              "RelativeDocumentMoniker": "Projet1BaseDuCsharpGrp5\\FightArena.cs",
+              "ToolTip": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\FightArena.cs",
+              "RelativeToolTip": "Projet1BaseDuCsharpGrp5\\FightArena.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T22:49:10.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\Program.cs",
+              "RelativeDocumentMoniker": "Projet1BaseDuCsharpGrp5\\Program.cs",
+              "ToolTip": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\Program.cs",
+              "RelativeToolTip": "Projet1BaseDuCsharpGrp5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T22:40:15.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Decors.cs",
+              "DocumentMoniker": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\Decors.cs",
+              "RelativeDocumentMoniker": "Projet1BaseDuCsharpGrp5\\Decors.cs",
+              "ToolTip": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\Decors.cs",
+              "RelativeToolTip": "Projet1BaseDuCsharpGrp5\\Decors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T22:37:21.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Biomes.JSON",
+              "DocumentMoniker": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Biomes.JSON",
+              "RelativeDocumentMoniker": "Biomes.JSON",
+              "ToolTip": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Biomes.JSON",
+              "RelativeToolTip": "Biomes.JSON",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T22:19:15.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Biome.cs",
+              "DocumentMoniker": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\Biome.cs",
+              "RelativeDocumentMoniker": "Projet1BaseDuCsharpGrp5\\Biome.cs",
+              "ToolTip": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\Biome.cs",
+              "RelativeToolTip": "Projet1BaseDuCsharpGrp5\\Biome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T22:18:42.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PokemonType.cs",
+              "DocumentMoniker": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\PokemonType.cs",
+              "RelativeDocumentMoniker": "Projet1BaseDuCsharpGrp5\\PokemonType.cs",
+              "ToolTip": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\PokemonType.cs",
+              "RelativeToolTip": "Projet1BaseDuCsharpGrp5\\PokemonType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T22:01:26.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Projet1BaseDuCsharpGrp5\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\MainMenu.cs",
+              "RelativeToolTip": "Projet1BaseDuCsharpGrp5\\MainMenu.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAnwBsBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:26:09.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\Player.cs",
+              "RelativeDocumentMoniker": "Projet1BaseDuCsharpGrp5\\Player.cs",
+              "ToolTip": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\Player.cs",
+              "RelativeToolTip": "Projet1BaseDuCsharpGrp5\\Player.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAawKQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:26:14.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pnj.cs",
+              "DocumentMoniker": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\Pnj.cs",
+              "RelativeDocumentMoniker": "Projet1BaseDuCsharpGrp5\\Pnj.cs",
+              "ToolTip": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\Pnj.cs",
+              "RelativeToolTip": "Projet1BaseDuCsharpGrp5\\Pnj.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAUwIMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:13:19.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "World.cs",
+              "DocumentMoniker": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\World.cs",
+              "RelativeDocumentMoniker": "Projet1BaseDuCsharpGrp5\\World.cs",
+              "ToolTip": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\World.cs",
+              "RelativeToolTip": "Projet1BaseDuCsharpGrp5\\World.cs",
+              "ViewState": "AgIAAJkDAAAAAAAAAAAjwKMDAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:13:40.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientSerialization.cs",
+              "DocumentMoniker": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\ClientSerialization.cs",
+              "RelativeDocumentMoniker": "Projet1BaseDuCsharpGrp5\\ClientSerialization.cs",
+              "ToolTip": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\ClientSerialization.cs",
+              "RelativeToolTip": "Projet1BaseDuCsharpGrp5\\ClientSerialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:26:06.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\UI.cs",
+              "RelativeDocumentMoniker": "Projet1BaseDuCsharpGrp5\\UI.cs",
+              "ToolTip": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\UI.cs",
+              "RelativeToolTip": "Projet1BaseDuCsharpGrp5\\UI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T23:13:27.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuPanique.cs",
+              "DocumentMoniker": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\MenuPanique.cs",
+              "RelativeDocumentMoniker": "Projet1BaseDuCsharpGrp5\\MenuPanique.cs",
+              "ToolTip": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\MenuPanique.cs",
+              "RelativeToolTip": "Projet1BaseDuCsharpGrp5\\MenuPanique.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAmwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T23:18:56.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sound.cs",
+              "DocumentMoniker": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\Sound.cs",
+              "RelativeDocumentMoniker": "Projet1BaseDuCsharpGrp5\\Sound.cs",
+              "ToolTip": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\Sound.cs",
+              "RelativeToolTip": "Projet1BaseDuCsharpGrp5\\Sound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T23:21:30.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Competence.cs",
+              "DocumentMoniker": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\Competence.cs",
+              "RelativeDocumentMoniker": "Projet1BaseDuCsharpGrp5\\Competence.cs",
+              "ToolTip": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\Competence.cs",
+              "RelativeToolTip": "Projet1BaseDuCsharpGrp5\\Competence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T22:36:15.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameSave.cs",
+              "DocumentMoniker": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\GameSave.cs",
+              "RelativeDocumentMoniker": "Projet1BaseDuCsharpGrp5\\GameSave.cs",
+              "ToolTip": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\GameSave.cs",
+              "RelativeToolTip": "Projet1BaseDuCsharpGrp5\\GameSave.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:26:02.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dresseur.cs",
+              "DocumentMoniker": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\Dresseur.cs",
+              "RelativeDocumentMoniker": "Projet1BaseDuCsharpGrp5\\Dresseur.cs",
+              "ToolTip": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\Dresseur.cs",
+              "RelativeToolTip": "Projet1BaseDuCsharpGrp5\\Dresseur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:14:11.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\Pokemon.cs",
+              "RelativeDocumentMoniker": "Projet1BaseDuCsharpGrp5\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\Antoine\\Documents\\GitHub\\lyo-3g-gamegear-s1p1-05\\Projet1BaseDuCsharpGrp5\\Projet1BaseDuCsharpGrp5\\Pokemon.cs",
+              "RelativeToolTip": "Projet1BaseDuCsharpGrp5\\Pokemon.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:12:51.769Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
